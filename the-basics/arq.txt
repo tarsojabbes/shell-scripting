@@ -1,0 +1,9 @@
+arq.txt
+arraysambiente.sh
+backtich.sh
+funcoes.sh
+log.2106221608
+meuscript.sh
+testeVar2.sh
+variaveis.sh
+ter 21 jun 2022 16:28:46 -03
